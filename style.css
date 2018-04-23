@@ -1,0 +1,38 @@
+.construction-card {
+    background: repeating-linear-gradient(
+    45deg,
+    #FFC100,
+    #FFC100 20px,
+    #FF9B00 20px,
+    #FF9B00 40px
+    );
+    border-radius: 20px;
+    /* width: 100%; */
+    max-height: 200px;
+
+}
+
+h1{
+    font-family: 'Do Hyeon', sans-serif;
+    font-style: italic;
+}
+
+.center {
+    margin: auto;
+}
+
+body {
+    background-color: #5f5f5f;
+}
+
+.rubble{
+    position:absolute;
+    left:70%;
+    top:60px;
+    height: 200px;
+    /* color:blue; */
+}
+
+p{
+    font-size: 20px;
+}
